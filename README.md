@@ -32,19 +32,19 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bre4d77&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Bre4d77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bre4d77&theme=algolia)](https://github.com/Bre4d77/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bre4d77&theme=algolia)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bre4d777&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Bre4d77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bre4d777&theme=algolia)](https://github.com/Bre4d777/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bre4d777&theme=algolia)]
 <br>
 
 ## GitHub Thropies 🏆 :
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Bre4d77)
+![trophy](https://github-profile-trophy.vercel.app/?username=Bre4d777)
 
 <br>
 
 ## Activity Graph 📊 :
-[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bre4d77&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bre4d777&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 ---
