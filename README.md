@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Priyanshu 🤡🤡</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/Bre4d77?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Bre4d77?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bre4d77.repoName) <img src="https://komarev.com/ghpvc/?username=Bre4d77" alt="Bre4d77" />
+<a href="https://app.daily.dev/bre4d777"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?r=36v&type=wide" width="652" alt="Priyanshu Yadav's Dev Card"/></a>
+![GitHub followers](https://img.shields.io/github/followers/Bre4d777?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Bre4d777?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bre4d77.repoName) <img src="https://komarev.com/ghpvc/?username=Bre4d777" alt="Bre4d77" />
 
 ## About Me :
 
