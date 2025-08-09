@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/bre4d777"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Priyanshu Yadav's Dev Card"/></a>
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bre4d777\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/bre4d777)
 ![GitHub followers](https://img.shields.io/github/followers/Bre4d777?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Bre4d777?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bre4d777.repoName) <img src="https://komarev.com/ghpvc/?username=Bre4d777" alt="Bre4d77" />
 
 ## About Me :
