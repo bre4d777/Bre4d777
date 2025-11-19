@@ -1,15 +1,13 @@
 <a href="https://app.daily.dev/bre4d777"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Priyanshu Yadav's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bre4d777\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/bre4d777)
-![GitHub followers](https://img.shields.io/github/followers/Bre4d777?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Bre4d777?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bre4d777.repoName) <img src="https://komarev.com/ghpvc/?username=Bre4d777" alt="Bre4d77" />
-
 ## About Me :
 
 - 🏢 I am currently working as a **Dumb JEE Aspirant** 
 - My main language is Hindi but I also speak JavaScript sometimes
-- Database: well I can do PostgreSQL, MongoDB, SQLite, ScyllaDB but I prefer SQLite
+- Database: well I can do PostgreSQL, MongoDB, SQLite, ScyllaDB but I prefer postgres
 - Preference: pretty eyes thick thighs 
 
-## Connect with me ☕ :
+## Connect with me  :
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/931059762173464597)](https://discord.gg/EpX9Rp4c)
 
@@ -20,18 +18,8 @@
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bre4d777&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+#  GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=bre4d777&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bre4d777&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bre4d777&theme=merko&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## Activity Graph 📊 :
-[![Bread's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bre4d777&bg_color=000000&color=ffffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
