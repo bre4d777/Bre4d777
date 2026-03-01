@@ -1,5 +1,6 @@
 <a href="https://app.daily.dev/bre4d777"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Priyanshu Yadav's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bre4d777\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/bre4d777)
+![Anime Quote](https://animequotes.uwuify.space/api?theme=jujutsu)
 ## About Me :
 
 - 🏢 I am currently working as a **Dumb JEE Aspirant** 
