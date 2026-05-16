@@ -3,10 +3,10 @@
 ![Anime Quote](https://animequotes.uwuify.space/api?theme=jujutsu)
 ## About Me :
 
-- 🏢 I am currently working as a **Dumb JEE Aspirant** 
+-  I am currently working as a **berojgar** 
 - My main language is Hindi but I also speak JavaScript sometimes
 - Database: well I can do PostgreSQL, MongoDB, SQLite, ScyllaDB but I prefer postgres
-- Preference: pretty eyes thick thighs 
+
 
 ## Connect with me  :
 
