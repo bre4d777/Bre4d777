@@ -3,7 +3,7 @@
 ![Anime Quote](https://animequotes.uwuify.space/api?theme=jujutsu)
 ## About Me :
 
--  I am currently working as a **berojgar** 
+- A 19 yo B.Tech Student maybe. 
 - My main language is Hindi but I also speak JavaScript sometimes
 - Database: well I can do PostgreSQL, MongoDB, SQLite, ScyllaDB but I prefer postgres
 
@@ -19,8 +19,6 @@
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#  GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bre4d777&theme=tokyonight)<br/>
 
 
 ---
