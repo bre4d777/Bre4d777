@@ -7,8 +7,8 @@ a 19-year-old B.Tech student. My main language is Hindi, but I also speak JavaSc
 
 ## Tech Stack
 
-**Core & Frameworks:** JavaScript, TypeScript, Node.js, Bun, React Native, Next.js, Expo, Express.js, FastAPI, Chart.js  
-**Databases:** PostgreSQL (preferred), MongoDB, SQLite, ScyllaDB, MySQL, SQL Server, Redis, Supabase  
+**Core & Frameworks:** JavaScript, TypeScript, Node.js, Bun  
+**Databases:** PostgreSQL (preferred), MongoDB, SQLite, Redis, Supabase  
 **Tools:** Git, GitHub, npm, pnpm, Figma.
 
 ![Anime Quote Showcase](https://animequotes.uwuify.space/api?theme=jujutsu)
